@@ -30,3 +30,6 @@ The CRITICAL slicer settings are as follows:
 * Min Support Area: 10mm^2
 * Build Plate Adhesion: Skirt
 
+
+Here is the original design.  Make sure to use North American Version 
+https://3dverkstan.se/protective-visor/protective-visor-versions/
