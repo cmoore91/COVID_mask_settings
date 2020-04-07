@@ -36,7 +36,7 @@ The **CRITICAL** slicer settings are as follows:
 * Support Density: 10%
 * Min Support Area: 10mm^2
 * Build Plate Adhesion: Skirt
-IT IS VERY IMPORTANT YOU SET THE WALLS TO START FROM THE INSIDE FIRST AND MOVE OUTWARDS TO TAKE ADVANTAGE OF THE VERY SPARSE SUPPORTS
+* IT IS VERY IMPORTANT YOU SET THE WALLS TO START FROM THE INSIDE FIRST AND MOVE OUTWARDS TO TAKE ADVANTAGE OF THE VERY SPARSE SUPPORTS
 
 Here is the original design.  Make sure to use North American Version 
 https://3dverkstan.se/protective-visor/protective-visor-versions/
