@@ -1,6 +1,6 @@
 # COVID mask settings
 ### 3D print settings I have optimized for mass production of the 3DVerkstan faceshield on an Ender 3 Pro.  
-### This is intended to assist Chapman University affiliated personnel for charity purposes, and I am not liable for your printer imploding  
+### Disclaimer: This is intended to assist Chapman University affiliated personnel for charity purposes, and I am not liable for your printer imploding  
 
 * Printer: Creality Ender 3 Pro with OctoPi and BLtouch self-leveling bed
 * Slicer: Ultimaker Cura 4.5.0
