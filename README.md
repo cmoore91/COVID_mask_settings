@@ -1,10 +1,10 @@
 # COVID_mask_settings
 3D print settings I have optimized for mass production of the 3DVerkstan faceshield on an Ender 3 Pro.  
 
-Printer: Creality Ender 3 Pro with OctoPi 
-Slicer: Ultimaker Cura 4.5.0
-CAD Software: Autodesk Fusion360
-Filament: Matterhackers PRO PLA
+* Printer: Creality Ender 3 Pro with OctoPi 
+* Slicer: Ultimaker Cura 4.5.0
+* CAD Software: Autodesk Fusion360
+* Filament: Matterhackers PRO PLA
 
 For people not using Cura slicer and want to copy the settings I used: 
 
