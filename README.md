@@ -13,6 +13,8 @@ plug-and-play g-code file here: https://drive.google.com/a/chapman.edu/file/d/1Q
 
 This can accomplish printing 35 Shield Frames in <30 hours, or 50 minutes per shield.  
 
+The frames are easily cracked apart with a paint scraper, razor blade or metal spatula.  I recommend cracking apart the tips of the arms first.  
+
 For people not using Cura slicer and want to copy the settings I used, but warning: mileage may vary.  
 
 The **CRITICAL** slicer settings are as follows: 
@@ -34,7 +36,7 @@ The **CRITICAL** slicer settings are as follows:
 * Support Density: 10%
 * Min Support Area: 10mm^2
 * Build Plate Adhesion: Skirt
-
+IT IS VERY IMPORTANT YOU SET THE WALLS TO START FROM THE INSIDE FIRST AND MOVE OUTWARDS TO TAKE ADVANTAGE OF THE VERY SPARSE SUPPORTS
 
 Here is the original design.  Make sure to use North American Version 
 https://3dverkstan.se/protective-visor/protective-visor-versions/
