@@ -11,7 +11,7 @@ In this repository, I have attached the STL and cura profile I used if you want 
 plug-and-play g-code file here: https://drive.google.com/a/chapman.edu/file/d/1QBju7udUCOP3C-gHDJ0qYh54JztkdXBj/view?usp=sharing
 * Note: if you dont have self-leveling, you need to remove the relevant g-code from the preamble in a text editor.
 
-This can accomplish printing 35 Shield Frames in <30 hours, or 51 minutes per shield.  
+This can accomplish printing 35 Shield Frames in <30 hours, or 50 minutes per shield.  
 
 For people not using Cura slicer and want to copy the settings I used, but warning: mileage may vary.  
 
