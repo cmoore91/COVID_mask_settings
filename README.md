@@ -33,3 +33,5 @@ The CRITICAL slicer settings are as follows:
 
 Here is the original design.  Make sure to use North American Version 
 https://3dverkstan.se/protective-visor/protective-visor-versions/
+
+contact me at c.stephen.moore@gmail.com with any feedback or questions
