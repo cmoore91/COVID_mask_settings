@@ -6,6 +6,8 @@
 * CAD Software: Autodesk Fusion360
 * Filament: Matterhackers PRO PLA
 
+This can accomplish printing 35 Shield Frames in <30 hours, or 51 minutes per shield.  
+
 For people not using Cura slicer and want to copy the settings I used: 
 
 The CRITICAL slicer settings are as follows: 
