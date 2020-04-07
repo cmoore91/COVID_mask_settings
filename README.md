@@ -12,6 +12,7 @@ The CRITICAL slicer settings are as follows:
 * Layer Height: 0.28 mm
 * Wall Line Count: 5 
 * Top Layers: 3
+* Outer Before Inner Wall: NOOOOO
 * Filter Out Tiny Gaps: Yes
 * Fill Gaps Between Walls: No
 * Infill Density: 5%
