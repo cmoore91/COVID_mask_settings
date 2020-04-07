@@ -1,5 +1,5 @@
 # COVID_mask_settings
-3D print settings I have optimized for mass production of the 3DVerkstan faceshield on an Ender 3 Pro.  
+### 3D print settings I have optimized for mass production of the 3DVerkstan faceshield on an Ender 3 Pro.  
 
 * Printer: Creality Ender 3 Pro with OctoPi and BLtouch self-leveling bed
 * Slicer: Ultimaker Cura 4.5.0
@@ -7,7 +7,7 @@
 * Filament: Matterhackers PRO PLA
 
 plug-and-play g-code file here: https://drive.google.com/a/chapman.edu/file/d/1QBju7udUCOP3C-gHDJ0qYh54JztkdXBj/view?usp=sharing
-Note: if you dont have self-leveling, you need to remove the relevant g-code from the preamble in a text editor.
+* Note: if you dont have self-leveling, you need to remove the relevant g-code from the preamble in a text editor.
 
 This can accomplish printing 35 Shield Frames in <30 hours, or 51 minutes per shield.  
 
