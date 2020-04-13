@@ -7,7 +7,15 @@
 * CAD Software: Autodesk Fusion360
 * Filament: Matterhackers PRO PLA
 
-In this repository, I have attached the STL and cura profile I used if you want to tweak the settings.  Otherwise find the
+In this repository, I have attached the STL and cura profile I used if you want to tweak the settings.  I have 2 versions: 
+* fast and loose: decent quality for rapid speed.  some unsupported areas are a little rough
+* slow and smooth: I recommend this one.  at 0.3mm layer height you can get it almost as fast as above.  
+
+I also have 2 open source droplet containment box designs.
+* the first one is mine: https://a360.co/2RrGePB  
+* the second one is in the Flatpackv5 folder (from https://www.aerosolblock.org/)
+
+Otherwise find the
 plug-and-play g-code file here: https://drive.google.com/a/chapman.edu/file/d/1QBju7udUCOP3C-gHDJ0qYh54JztkdXBj/view?usp=sharing
 * Note: if you dont have self-leveling, you need to remove the relevant g-code from the preamble in a text editor.
 
